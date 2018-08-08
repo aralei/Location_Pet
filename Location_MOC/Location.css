@@ -1,0 +1,41 @@
+input.tb_input{
+  font-size:1.0em;
+  height:1.5em;
+  margin-bottom:1.0em;
+  margin-top:0.5em;
+  letter-spacing:0.1em;
+}
+#btn_login{
+  width:8.0em;
+  height:2.5em;
+  font-size:0.85em;
+  background-color:lightblue;
+  letter-spacing:0.1em;
+  font-weight:bold;
+}
+#btn_map{
+  text-align:center;
+  width:8.0em;
+  height:2.5em;
+  font-size:0.85em;
+  background-color:lightblue;
+  letter-spacing:0.1em;
+  font-weight:bold;
+}
+#map{
+  text-align:center;
+  margin-top:1.5em;
+}
+#pet_name{
+  width:12.0em;
+  height:2.5em;
+}
+#btn_logout{
+  text-align:center;
+  width:8.0em;
+  height:2.5em;
+  font-size:0.85em;
+  background-color:lightblue;
+  letter-spacing:0.1em;
+  font-weight:bold;
+}
